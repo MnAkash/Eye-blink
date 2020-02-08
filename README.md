@@ -13,11 +13,10 @@
 - `cd ../R-PI/`
 - `node server.js`
 
-##### Setup on R-PI
+first install 'cmake' before starting installing anaconda packages
+#Run the following command in anaconda prompt
+# conda install -c conda-forge dlib
+# pip install imutils
+# pip install opencv-python
 
-  <img src="http://razzpisampler.oreilly.com/images/rpck_1001.png">
 
-#### Working Demo
-
-<a href="https://www.youtube.com/watch?v=4ytR6dX1izQ"> eye-bot </a>
-<img src="https://drive.google.com/file/d/0BylUgB3l8Lc6eU94c3BibHFEODA/view?usp=sharing">
